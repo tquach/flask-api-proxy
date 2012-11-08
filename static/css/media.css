@@ -564,13 +564,13 @@
     transition: transform 100ms ease-in-out;
   }
   
-/*  .csstransforms.csstransitions .on-slide-16 .goto-form, .csstransforms.csstransitions .on-slide-16 .deck-next-link, .csstransforms.csstransitions .on-slide-16 .deck-prev-link {
+  .csstransforms.csstransitions .on-slide-47 .goto-form, .csstransforms.csstransitions .on-slide-47 .deck-next-link, .csstransforms.csstransitions .on-slide-47 .deck-prev-link {
     -webkit-transform: scale(1);
     -moz-transform: scale(1);
     -ms-transform: scale(1);
     -o-transform: scale(1);
     transform: scale(1);
-  }*/
+  }
   .csstransforms.csstransitions #now-what.deck-next, .csstransforms.csstransitions #now-what.deck-after {
     left: 0;
     top: 0;
